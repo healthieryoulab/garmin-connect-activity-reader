@@ -1,0 +1,4 @@
+interface:
+  display_name: "Garmin Connect Activity Reader"
+  short_description: "Read Garmin activity metrics without the map UI"
+  default_prompt: "Use $garmin-connect-activity-reader to read my latest Garmin run and verify endpoint coverage."

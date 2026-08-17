@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.garminconnect/
+garmin_tokens.json
+outputs/
+activity-*.json
+garmin-*.json
+*.fit
+*.gpx
+*.tcx
